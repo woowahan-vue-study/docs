@@ -12,10 +12,10 @@
 - 바로 approve하지 말고, 완벽하다고 생각할 때 approve를 진행시켜 준다.
 
 ## 일정
-- 2020. 06. 20 ~ 2020. 07. 05 : TodoList & todoList 피드백
-- 2020. 07. 06 ~ 2020. 07. 12 : SubWay & todoList 피드백 & Subway 피드백
-- 2020. 07. 13 ~ 2020. 07. 19 : RealWorld & todoList 피드백 & subWay 피드백 & RealWord 피드백
-- 2020. 07. 20 ~ 2020. 07. 23 : 모든 상호 리뷰 완료 및 모든 미션 merge
+- '2020. 06. 20 ~ 2020. 07. 05 : TodoList & todoList 피드백
+- '2020. 07. 06 ~ 2020. 07. 12 : SubWay & todoList 피드백 & Subway 피드백
+- '2020. 07. 13 ~ 2020. 07. 19 : RealWorld & todoList 피드백 & subWay 피드백 & RealWord 피드백
+- '2020. 07. 20 ~ 2020. 07. 23 : 모든 상호 리뷰 완료 및 모든 미션 merge
 - 피드백에 대한 기한은 따로 두지 않지만, 최대한 빠르게 하는 걸 원칙으로 한다.
 
 ## 패널티
@@ -32,7 +32,7 @@
 - 매 미션마다 사다리타기로 리뷰어를 선정한다.
 
 ## 미션 진행방법
-![sample](./img/fork.png)
+![sample](https://github.com/Woohan-TDD/docs/blob/master/img/fork.png)
 1. Woohan-TDD/Repository 이름을 확인한다.
 2. 브랜치를 선택한다.
 3. 새로운 브랜치를 만든다. 브랜치 이름은 tdd-<닉네임>으로 진행한다. 예) tdd-allen
@@ -59,7 +59,7 @@
 
 
 ## PR 진행방법.detail
-![pr1](./img/pr1.JPG)
+![pr1](https://github.com/Woohan-TDD/docs/blob/master/img/pr1.png)
 1. 본인의 Origin 저장소인지 확인한다.
 2. new pull request 버튼을 누른다.
 
@@ -69,7 +69,7 @@
 
 
 
-![pr2](./img/pr2.JPG)
+![pr2](https://github.com/Woohan-TDD/docs/blob/master/img/pr2.png)
 1. base respository를 Woohan-TDD/<미션저장소>를 확인한다.
 2. base branch를 본인이 만들었던, tdd-<닉네임>인지 확인한다.
 3. 본인 origin 저장소 확인 및 브랜치를 확인한다.
