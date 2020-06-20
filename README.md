@@ -30,6 +30,23 @@
 ## 상호리뷰
 - 리뷰어는 3/3/3/3으로 진행한다.
 - 매 미션마다 사다리타기로 리뷰어를 선정한다.
+- 리뷰 요청을 위해 해당 리뷰어를 맨션하고 PR주소를 같이 해서 채널에 공유한다.
+```
+@알트 @그래
+리뷰 요청합니다. 잘 부탁드려요~
+https://github.com/woowacourse/todolist/pull/33
+```
+- 리뷰가 완료되면 해당 크루를 매션한 후에 PR주소를 같이 해서 채널에 공유한다.
+```
+@럿고
+너무 멋지게 구현하셨네요. 아쉬운점이 있어 몇가지만 피드백 드립니다. 피드백 적용 후 다시 리뷰 요청 해주세요.
+https://github.com/woowacourse/todolist/pull/33
+```
+```
+@럿고
+이만 머지할께요.
+https://github.com/woowacourse/todolist/pull/33
+```
 
 ## 미션 진행방법
 ![sample](https://github.com/Woohan-TDD/docs/blob/master/img/fork.png)
