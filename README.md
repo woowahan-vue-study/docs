@@ -35,7 +35,7 @@
 ![sample](https://github.com/Woohan-TDD/docs/blob/master/img/fork.png)
 1. Woohan-TDD/Repository 이름을 확인한다.
 2. 브랜치를 선택한다.
-3. 새로운 브랜치를 만든다. 브랜치 이름은 tdd-<닉네임>으로 진행한다. 예) tdd-allen
+3. 새로운 브랜치를 만든다. 브랜치 이름은 vue-<닉네임>으로 진행한다. 예) vue-rutgo
    - 기존 브랜치와 중복을 피하기 위함이다. 
 4. 클릭하여 새로운 브랜치를 만든다.
 5. Fork 한다.
@@ -59,7 +59,7 @@
 
 
 ## PR 진행방법.detail
-![pr1](https://github.com/Woohan-TDD/docs/blob/master/img/pr1.png)
+![pr1](https://github.com/Woohan-TDD/docs/blob/master/img/pr1.jpg)
 1. 본인의 Origin 저장소인지 확인한다.
 2. new pull request 버튼을 누른다.
 
@@ -69,9 +69,9 @@
 
 
 
-![pr2](https://github.com/Woohan-TDD/docs/blob/master/img/pr2.png)
-1. base respository를 Woohan-TDD/<미션저장소>를 확인한다.
-2. base branch를 본인이 만들었던, tdd-<닉네임>인지 확인한다.
+![pr2](https://github.com/Woohan-TDD/docs/blob/master/img/pr2.jpg)
+1. base respository를 Woohan-Vue-Study/<미션저장소>를 확인한다.
+2. base branch를 본인이 만들었던, vue-<닉네임>인지 확인한다.
 3. 본인 origin 저장소 확인 및 브랜치를 확인한다.
 
 ---
